@@ -1,0 +1,3 @@
+C:/Users/hamza/CLionProjects/lab1-slide-11/cmake-build-debug/CMakeFiles/lab1_slide_11.dir
+C:/Users/hamza/CLionProjects/lab1-slide-11/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hamza/CLionProjects/lab1-slide-11/cmake-build-debug/CMakeFiles/rebuild_cache.dir
