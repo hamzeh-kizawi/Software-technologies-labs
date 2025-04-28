@@ -1,0 +1,3 @@
+C:/Users/hamza/Desktop/lab5-slide16/cmake-build-debug/CMakeFiles/lab5-slide16.dir
+C:/Users/hamza/Desktop/lab5-slide16/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hamza/Desktop/lab5-slide16/cmake-build-debug/CMakeFiles/rebuild_cache.dir
