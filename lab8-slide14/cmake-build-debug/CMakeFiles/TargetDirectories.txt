@@ -1,0 +1,3 @@
+C:/Users/hamza/Desktop/third-year-files/semester 2/stt/lab8-slide14/cmake-build-debug/CMakeFiles/lab8_slide14.dir
+C:/Users/hamza/Desktop/third-year-files/semester 2/stt/lab8-slide14/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hamza/Desktop/third-year-files/semester 2/stt/lab8-slide14/cmake-build-debug/CMakeFiles/rebuild_cache.dir
